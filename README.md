@@ -16,9 +16,13 @@ Add on: Randomly choose a food based on ingredients we have
 
 Display picture and recipe on a Web interface for user, with a randomizer screen 
 
+Displaying picture will need some kind of store for the images either on disk or on a remote server (usually S3 or a CDN), but the local path to the image (e.g. /username\_id\_) or url of the image will be stored in the main DB
+
 > TODO: Maybe a template would be good. A template for rendering with -> picture, ingredients list, recipe (these need to be in the DB)
 
 > TODO: Meal Adder Tool: Tool that you can add new meals with, ingredients and recipe there to be filled in and then saved to DB
+
+
 
 # Technologies 
 
