@@ -1,10 +1,10 @@
 # README
 
+An app to manage food at home including a meal randomizer, recipe database, and can give meal options given ingredients
+
 # Design and Spec
 
-A food app that stores all our favourite foods that our Mom makes, and show its recipe 
-
-> TODO: Store all foods in DB, what is the schema? What does it look like? Recipe? Ingredients?
+TODO: Store all foods in DB, what is the schema? What does it look like? Recipe? Ingredients?
 
 It will randomly choose a food for the day 
 
