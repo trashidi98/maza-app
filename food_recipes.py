@@ -1,5 +1,5 @@
 food_recipes = {
-    "Chicken Salan and Aloo":"the ingredients", 
+    "Chicken Salan and Aloo": "the ingredients",
 }
 
 food_randomizer_app = [

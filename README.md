@@ -23,6 +23,8 @@ Display picture and recipe on a Web interface for user, with a randomizer screen
 # Technologies 
 
 Backend: Python, API: FASTAPI SQLAlchemy?
+Local toolchain: venv, ruff (linting), pytest, MyPy (typing), Pre-commit (commit hooks)
+
 DB: PostGRES 
 Frontend: React + TypeScript, HTML CSS
 
