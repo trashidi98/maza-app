@@ -6,6 +6,8 @@ An app to manage food at home including a meal randomizer, recipe database, and 
 
 TODO: Store all foods in DB, what is the schema? What does it look like? Recipe? Ingredients?
 
+id | food_name | recipe | ingredients | picture_link
+
 It will randomly choose a food for the day 
 
 > TODO: Random food selection 
