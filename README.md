@@ -36,3 +36,5 @@ Frontend: React + TypeScript, HTML CSS
 
 Infra: Dockerized, Microservices?
 
+
+
